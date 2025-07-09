@@ -33,11 +33,6 @@ weather-app/
 ├── style.css # Stylesheet
 ├── script.js # JavaScript logic
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Getting Started
