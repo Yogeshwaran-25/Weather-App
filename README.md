@@ -34,6 +34,8 @@ weather-app/
 ├── script.js # JavaScript logic
 └── README.md
 ---
+![Screenshot (206)](https://github.com/user-attachments/assets/aae6eaa1-b610-4974-9804-4700567aa342)
+![Screenshot (205)](https://github.com/user-attachments/assets/bdb34415-46c3-416f-8c67-d378672ced82)
 
 ## 🚀 Getting Started
 
